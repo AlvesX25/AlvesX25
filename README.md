@@ -1,6 +1,6 @@
 
 ### Olá 👋! Sou estudante de front End, e amo aprender coisas novas
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=+Meu+nome+é+Anderson+Alves;Tenho+27+anos;Moro+em+Recife,Brasil;estudo+pelo+"Centro Universitario Senac"+BEm+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=+Meu+nome+é+Anderson+Alves;Tenho+27+anos;Moro+em+Recife,Brasil;estudo+pelo+"Centro+Universiário+Senac"BEm+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
